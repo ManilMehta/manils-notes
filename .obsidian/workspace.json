@@ -11,10 +11,14 @@
             "id": "9403bf7a8a9d0fe0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "neural networks (zero to hero)/building micrograd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "building micrograd"
             }
           }
         ]
@@ -173,12 +177,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "9403bf7a8a9d0fe0",
   "lastOpenFiles": [
-    "Untitled.md"
+    "neural networks (zero to hero)",
+    "neural networks (zero to hero)/building micrograd.md"
   ]
 }
