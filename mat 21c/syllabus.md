@@ -1,3 +1,7 @@
+jchallenor@ucdavis.edu
+
+office hours immediately after class on wednesday
+
 jan 28 - midterm 1
 feb 25 - midterm 2
 mar 18 - final (6-8pm)
