@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "day 02"
             }
+          },
+          {
+            "id": "c4671c21dbe07ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sta 35b/lecture 02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture 02"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sta 35b/lecture 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for lecture 02"
             }
           },
           {
@@ -195,10 +210,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b171b30de87fa679",
+  "active": "c4671c21dbe07ba4",
   "lastOpenFiles": [
-    "ecs 017/day 01.md",
+    "sta 35b/Pasted image 20260107131817.png",
     "ecs 017/day 02.md",
+    "sta 35b/lecture 02.md",
+    "ecs 017/day 01.md",
     "mat 21c/lecture 01.md",
     "mat 21c/syllabus.md",
     "mat 21c/epsilon (and delta) explained.md",
